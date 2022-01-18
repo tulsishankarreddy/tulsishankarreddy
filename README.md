@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tulsishankarreddy
-- 👀 I’m interested in ...
+- 👀 I’m interested in latest technologies.
 - 🌱 I’m currently learning ML and DL.
 - 💞️ I’m looking to collaborate on Computer vision, NLP, ML and DL projects.
 - 📫 How to reach me tulsi.shankar@gmail.com
