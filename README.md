@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tulsi Shankar Reddy 👋</h1>
+<h1 align="center">Hi, I'm A Tulasi Shankar Reddy 👋</h1>
 
 <p align="center">
   <em>ML Engineer · NLP · Voice AI · Deep Learning</em>
