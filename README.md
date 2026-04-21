@@ -32,8 +32,6 @@ I'm a working professional passionate about building intelligent systems that so
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 **ML / DL Frameworks**
 
@@ -47,9 +45,6 @@ I'm a working professional passionate about building intelligent systems that so
 
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3DDC84?style=flat&logoColor=white)
-![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-4285F4?style=flat&logo=google&logoColor=white)
-![pyttsx3](https://img.shields.io/badge/pyttsx3-FF6F00?style=flat&logoColor=white)
-![Whisper](https://img.shields.io/badge/OpenAI%20Whisper-412991?style=flat&logo=openai&logoColor=white)
 
 **Tools & Platforms**
 
